@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f4a20af-bf56-4f3f-b76a-aab836de088a" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/web/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/web/views/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/web/views/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/assets/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/views/HomeView.vue" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770727962398</updated>
       <workItem from="1770727963441" duration="10065000" />
-      <workItem from="1770796222637" duration="31000" />
+      <workItem from="1770796222637" duration="1149000" />
     </task>
     <servers />
   </component>
