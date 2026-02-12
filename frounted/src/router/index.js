@@ -1,10 +1,63 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import HomepageIndex from "@/views/homepage/HomepageIndex.vue";
+import NotFoundIndex from "@/views/error/NotFoundIndex.vue";
+import FriendIndex from "@/views/friend/FriendIndex.vue";
+import CreateIndex from "@/views/create/CreateIndex.vue";
+import LoginIndex from "@/views/user/account/login/LoginIndex.vue";
+import RegisterIndex from "@/views/user/account/register/RegisterIndex.vue";
+import SpaceIndex from "@/views/user/space/SpaceIndex.vue";
+import ProfileIndex from "@/views/user/profile/ProfileIndex.vue";
+
 
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
-
+    {
+      path: '/',
+      component: HomepageIndex,
+      name: 'homepage-index',
+    },
+    {
+      path: '/friend/',
+      component:FriendIndex,
+      name: 'friend-index',
+    },
+    {
+      path: '/create/',
+      component: CreateIndex,
+      name: 'create-index',
+    },
+    {
+      path: '/404',
+      component: NotFoundIndex,
+      name: 'notefuound-index',
+    },
+    {
+      path: '/user/account/login/',
+      component: LoginIndex,
+      name: 'user-account-login-index',
+    },
+    {
+      path: '/user/account/register/',
+      component: RegisterIndex,
+      name: 'user-account-register-index',
+    },
+    {
+      path: '/user/space/:user_id/',
+      component: SpaceIndex,
+      name: 'space-index',
+    },
+    {
+      path: '/user/profile',
+      component: ProfileIndex,
+      name: 'profile-index',
+    },
+    {
+      path: '/:pathMatch(.*)*',
+      component: NotFoundIndex,
+      name: 'notfound-index',
+    },
   ],
 })
 
