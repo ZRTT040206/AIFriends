@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f4a20af-bf56-4f3f-b76a-aab836de088a" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frounted/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frounted/src/components/navbar/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/components/navbar/NavBar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frounted/src/components/navbar/icon/HomepaceIcon.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/components/navbar/icon/HomespaceIcon.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frounted/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frounted/src/views/user/space/SpaceIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/views/user/space/SpaceIndex.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frounted/src/views/user/account/login/LoginIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frounted/src/views/user/account/login/LoginIndex.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +103,7 @@
       <workItem from="1770727963441" duration="10065000" />
       <workItem from="1770796222637" duration="11493000" />
       <workItem from="1770899826082" duration="6946000" />
-      <workItem from="1770987348436" duration="2602000" />
+      <workItem from="1770987348436" duration="3624000" />
     </task>
     <servers />
   </component>
